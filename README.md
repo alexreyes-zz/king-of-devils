@@ -1,4 +1,4 @@
 king-of-devils
 ==============
 
-starter
+seeing how things work.
